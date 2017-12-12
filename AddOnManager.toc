@@ -1,0 +1,9 @@
+## Interface: 70300
+## Title: AddOnManager
+## Author: Sorgsvart aka Galad
+## Notes: Managing Addon Sets for different chars
+## Version: 1.0.0
+## SavedVariables: AddOnManagerDB
+
+libs/load.xml
+Core.lua
